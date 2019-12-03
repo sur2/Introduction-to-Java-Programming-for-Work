@@ -33,3 +33,28 @@
 ## 4. JVM(Java Virtual Machine)
 
 - 바이트 코드를 기계어 코드로 변환하는 작업과 자바 실행에 관한 모든 일을  처리하는 프로그램
+
+
+
+## 5 개발환경 구축
+
+- JRE(Java Runtime Enviroment)
+  
+  - 자바 프로그램을 실행하기 위한 JVM과 실행에 필요한 파일을 포함함
+  
+- JDK(Java Development Kit)
+  
+  - JRE와 프로그램 개발에 필요한 Tool을 포함함
+  
+- 환경 변수 path에 %JAVA_HOME%bin; 폴더경로를 추가하면 자바 프로그램 개발 Tool을 어떤 위치에서나 사용할 수 있음
+
+- 자바 컴파일 명령문      ※ 확장자 포함
+
+  ``javac 소스파일명.java``
+
+- 자바 실행 명령문          ※ 확장자 제외
+
+  ``java 실행파일명``
+
+- 자바 실행 시 public static void main(Stringp[] args)의 { } 부분이 자동으로 실행됨
+
