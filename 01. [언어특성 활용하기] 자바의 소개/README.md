@@ -50,11 +50,15 @@
 
 - 자바 컴파일 명령문      ※ 확장자 포함
 
-  ``javac 소스파일명.java``
+  ```
+  javac 소스파일명.java
+  ```
 
 - 자바 실행 명령문          ※ 확장자 제외
 
-  ``java 실행파일명``
+  ```
+  java 실행파일명
+  ```
 
 - 자바 실행 시 public static void main(Stringp[] args)의 { } 부분이 자동으로 실행됨
 
