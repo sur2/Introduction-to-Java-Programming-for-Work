@@ -17,7 +17,6 @@ public class Main {
 		calTax(d);
 		calTax(s);
 		
-		
 	}
 	
 	// ´ÙÇü¼º
